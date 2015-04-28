@@ -1,3 +1,9 @@
+"""
+    Written by Soo Yong Lee
+    Last updated 28/04/2015
+    """
+
+
 import csv
 import subprocess
 import pandas as pd
